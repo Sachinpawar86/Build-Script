@@ -2,5 +2,5 @@
 
 # Evolution-X Command:
 ```
-crave run --no-patch -- "curl https://raw.githubusercontent.com/Sachinpawar86/Script/refs/heads/15-QPR2/evox.sh | bash"
+curl https://raw.githubusercontent.com/Sachinpawar86/Build-Script/refs/heads/main/evox.sh | bash
 ```
