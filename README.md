@@ -4,3 +4,7 @@
 ```
 curl https://raw.githubusercontent.com/Sachinpawar86/Build-Script/refs/heads/main/evox.sh | bash
 ```
+# Voltage Command:
+```
+curl https://raw.githubusercontent.com/Sachinpawar86/Build-Script/refs/heads/main/voltage.sh | bash
+```
