@@ -18,9 +18,6 @@ echo "============================"
 echo "Local manifest clone success"
 echo "============================"
 
-# Signed Keys
-croot && git clone https://github.com/Evolution-X/vendor_evolution-priv_keys-template vendor/evolution-priv/keys && cd vendor/evolution-priv/keys && ./keys.sh
-
 # Sync the repositories
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 echo "============================"
