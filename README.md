@@ -4,3 +4,7 @@
 ```
 curl https://raw.githubusercontent.com/Sachinpawar86/Build-Script/refs/heads/main/evox.sh | bash
 ```
+# GenesisOS Command:
+```
+curl https://raw.githubusercontent.com/Sachinpawar86/Build-Script/refs/heads/main/genesis.sh | bash
+```
