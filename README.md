@@ -8,3 +8,7 @@ curl https://raw.githubusercontent.com/Sachinpawar86/Build-Script/refs/heads/mai
 ```
 curl https://raw.githubusercontent.com/Sachinpawar86/Build-Script/refs/heads/main/genesis.sh | bash
 ```
+# AxionOS Command:
+```
+curl https://raw.githubusercontent.com/Sachinpawar86/Build-Script/refs/heads/main/axion.sh | bash
+```
